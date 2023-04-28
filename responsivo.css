@@ -1,0 +1,37 @@
+@media screen and (max-width: 640px){
+    #divPri{
+        margin: auto;
+        height: 280px;
+        width: 345px;
+    }
+    #divSeg{
+        flex-direction: column;
+        margin: auto;
+        margin-bottom: 200px;
+        height: 400px;
+    }
+    
+    #divEsq{
+        margin: auto;
+        width: 345px;
+        padding-bottom: 30px;
+        border-bottom-left-radius: 0px;
+    }
+
+    .p2E{
+        font-size: 16px;
+    }
+
+    #botao{
+        width: 280px;
+        height: 50px;
+    }
+    
+    #divDir{
+        margin: auto;
+        width: 345px;
+        padding-bottom: 30px;
+        border-bottom-left-radius: 8px;
+    }
+    
+}
